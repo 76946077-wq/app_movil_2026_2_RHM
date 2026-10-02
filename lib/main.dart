@@ -88,7 +88,7 @@ class _PerfilAcademicoState extends State<PerfilAcademico> {
       appBar: AppBar(
         backgroundColor: Colors.teal,
         foregroundColor: Colors.white,
-        title: Text(nombre), // AppBar con nombre completo
+        title: Text('Mi Perfil Académico'), // AppBar con nombre completo
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
